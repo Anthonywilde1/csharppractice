@@ -1,0 +1,16 @@
+/home/anfii/Documents/Code/C#/c#practice/practice/bin/Debug/net5.0/practice
+/home/anfii/Documents/Code/C#/c#practice/practice/bin/Debug/net5.0/practice.deps.json
+/home/anfii/Documents/Code/C#/c#practice/practice/bin/Debug/net5.0/practice.runtimeconfig.json
+/home/anfii/Documents/Code/C#/c#practice/practice/bin/Debug/net5.0/practice.runtimeconfig.dev.json
+/home/anfii/Documents/Code/C#/c#practice/practice/bin/Debug/net5.0/practice.dll
+/home/anfii/Documents/Code/C#/c#practice/practice/bin/Debug/net5.0/ref/practice.dll
+/home/anfii/Documents/Code/C#/c#practice/practice/bin/Debug/net5.0/practice.pdb
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.csprojAssemblyReference.cache
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.AssemblyInfoInputs.cache
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.AssemblyInfo.cs
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.csproj.CoreCompileInputs.cache
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.dll
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/ref/practice.dll
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.pdb
+/home/anfii/Documents/Code/C#/c#practice/practice/obj/Debug/net5.0/practice.genruntimeconfig.cache
