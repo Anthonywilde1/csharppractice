@@ -8,7 +8,7 @@ namespace practice
         {
             string name = "Anthony";
             int age = 26;
-            string[] hobbies = { "video games", "wanting to die because of new code that doesnt work for no reason", "surfing" };
+            string[] hobbies = { "video games", "crying", "surfing" };
             Random rand = new Random();
             int index = rand.Next(hobbies.Length);
             Console.WriteLine($"Greetings, My name is {name}, I am {age} years old and I like {hobbies[index]}");
