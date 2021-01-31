@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/practice/bin/Debug/net5.0/practice.dll",
+            "program": "${workspaceFolder}/practiceclasses/bin/Debug/net5.0/practiceclasses.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/practice",
+            "cwd": "${workspaceFolder}/practiceclasses",
             "console": "internalConsole",
             "stopAtEntry": false
         },
