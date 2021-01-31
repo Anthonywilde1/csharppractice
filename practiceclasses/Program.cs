@@ -33,7 +33,11 @@
             Console.WriteLine("Person 2");
             var person2 = new Person("Jeff", 21);
             Console.WriteLine($"{person2.Name}, {person2.Age}");
-
+            Console.WriteLine("Please write a name in the field below");
+            string personname = Console.ReadLine();
+            Console.WriteLine("and an age please");
+            int personage = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"Person 3 is named {personname} and is {personage} years old");
         }
     }
 
